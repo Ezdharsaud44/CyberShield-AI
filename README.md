@@ -12,16 +12,6 @@ It includes Jupyter notebooks for development, a ready-to-use **FastAPI backend*
 
 ---
 
-## 👥 Team Members
-
-- Yousef Al‑Dayhan  
-- Alhanouf Al‑Suwaid  
-- Ezdhar Al‑Tamimi  
-- Rahaf Masmali  
-- Omar AlSuraia  
-
----
-
 ## Data Source
 
 We used the **CyberBERT Dataset** from Hugging Face, which is derived from the **CICIDS2017 benchmark**.  
